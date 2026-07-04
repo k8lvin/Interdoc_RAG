@@ -11,6 +11,7 @@
 - and again You should be able to know exactly what is still missing to turn this into a real "'chat with your documents product" (hio ni kesho)
 
 
+```
 interdoc/ 
 	|--app/
 		|---- ingestion.py
@@ -19,6 +20,7 @@ interdoc/
         |---- rag.py
 	|--data/
 		|---- chromadb
+```
 
 -> ingestion.py - extracting text from a file and splitting it into chunks
 -> vectorestore.py - turning chunks into vectors and storing them in database (ChromaDB)
