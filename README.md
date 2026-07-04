@@ -29,7 +29,7 @@ interdoc/
 ~ last week - FastAPI intro (we built an API that talked to a database of rows and columns). Today - Vector Database (we build an API that talke to a database of meaning) 
 
 
-## I want us to be able to REDRAW these three idea from memory by end of the session.
+## REDRAW these three idea from memory.
 1)	Embeddings
 -	An Embedding is a piece of text turned into a list of numbers (a vector) , such that text with similar MEANING ends up close together in that number space.
 -	‘Cat’ and ‘dog’ - end up near each other 
